@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haedric279
-- 👀 I’m interested in ... Coding (Duh), Game development, Cyber Security, Passion Projects. 
-- 🌱 I’m currently learning ... Java & Python 
+- 👀 I’m interested in ... Coding, Game development, Cyber Security, Passion Projects. 
+- 🌱 I’m currently learning ... SQL & C# 
 
 
 <!---
